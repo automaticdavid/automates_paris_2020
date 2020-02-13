@@ -24,7 +24,7 @@ This is all demo code and can obviously be vastly improved.
 
 ## Demo Playbooks
 
-These provide the `stack.yml`playbook used in the Tower templates:
+These provide the `stack.yml` playbook used in the Tower templates:
 
 - [https://github.com/automaticdavid/demo\_eap\_azure/tree/automates\_paris\_2020](https://github.com/automaticdavid/demo_eap_azure/tree/automates_paris_2020)
 - [https://github.com/automaticdavid/demo\_eapv_aws/tree/automates\_paris\_2020](https://github.com/automaticdavid/demo_eap_aws/tree/automates_paris_2020)
