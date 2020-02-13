@@ -8,17 +8,17 @@ This is all demo code and can obviously be vastly improved.
 
 ## Roles
 
-- Configure an MSSQL instance on RHEL to be used by an EAP Install:
+- Configure an MSSQL instance on RHEL to be used by an EAP Install:  
 [https://github.com/automaticdavid/eap\_mssql/tree/automates\_paris\_2020](https://github.com/automaticdavid/eap_mssql/tree/automates_paris_2020)
 
 
-- Configure EAP Instances (HA or not):
+- Configure EAP Instances (HA or not):  
 [https://github.com/automaticdavid/eap/tree/automates\_paris\_2020](https://github.com/automaticdavid/eap/tree/automates_paris_2020)
 
-- Provision EC2 environement and VMs
+- Provision EC2 environement and VMs:  
 [https://github.com/automaticdavid/ec2/tree/automates\_paris\_2020](https://github.com/automaticdavid/ec2/tree/automates_paris_2020)
 
-- Provision Azure environement and VMs
+- Provision Azure environement and VMs:  
 [https://github.com/automaticdavid/azure/tree/automates\_paris\_2020](https://github.com/automaticdavid/azure/tree/automates_paris_2020)
 
 
